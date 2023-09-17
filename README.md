@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **"Lost in the world of bits and bytes 🔍💡"**
 
+- My GIT/GITHUB PDF - https://red-desdemona-20.tiiny.site/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22209580/anuj-dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22209580/anuj-dixit" height="30" width="40" /></a>
