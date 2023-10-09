@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **"Lost in the world of bits and bytes 🔍💡"**
 
-- My GIT/GITHUB PDF - <a href='amazon.com'>Click Here!!!</a>
+- My GIT/GITHUB PDF - <a href='https://git-github-anujdixit.netlify.app/'>Click Here!!!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
