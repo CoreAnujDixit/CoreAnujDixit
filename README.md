@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Dixit</h1>
 <h3 align="center">A passionate Full Stack & App developer from India</h3>
 
+
 - 🔭 I’m currently working on **Backend DevGram**
 
 - 🌱 I’m currently mastering **Backend**
@@ -25,9 +26,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/anujdixit2l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/anujdixit2l" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coreanujdixit&show_icons=true&locale=en&layout=compact" alt="coreanujdixit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coreanujdixit&show_icons=true&locale=en" alt="coreanujdixit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coreanujdixit&" alt="coreanujdixit" /></p>
