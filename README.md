@@ -13,7 +13,7 @@
 - 📫 How to reach me **anujdixit201@gmail.com**
 
 - ⚡ Fun fact **I Love Programming.**
-<img src ="https://github.com/CoreAnujDixit/DevGram/assets/93566696/1a2ce3ce-0f16-4500-8773-ba48150fc428" width="200" height="400"/>
+- <a href="https://git-github-anujdixit.netlify.app/" > GITHUB </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/coreanujdixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/coreanujdixit" height="30" width="40" /></a>
