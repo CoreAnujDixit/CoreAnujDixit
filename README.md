@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Full Stack & App developer from India</h3>
 
 
-- 🔭 I’m currently working on **Backend DevGram**
+- 🔭 I’m currently working on **Backend Projects**
 
 - 🌱 I’m currently mastering **Backend**
 
-- 👯 I’m looking to collaborate on **React Native**
+- 👯 I’m looking to collaborate on **MERN STACK OR JAVA PROJECTS**
 
 - 🤝 I’m looking for help with **Python & Data Science**
 
